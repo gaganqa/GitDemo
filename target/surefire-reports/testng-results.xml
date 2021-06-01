@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="19" started-at="2021-05-24T19:23:28Z" finished-at="2021-05-24T19:23:28Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="19" started-at="2021-05-24T19:23:28Z" finished-at="2021-05-24T19:23:28Z">
+      <class name="qa.maven.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:qa.maven.SeleniumTest@62ee68d8]" name="BrowserAutomation" duration-ms="1" started-at="2021-05-24T15:23:28Z" finished-at="2021-05-24T15:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="Elements()[pri:0, instance:qa.maven.SeleniumTest@62ee68d8]" name="Elements" duration-ms="0" started-at="2021-05-24T15:23:28Z" finished-at="2021-05-24T15:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Elements -->
+      </class> <!-- qa.maven.SeleniumTest -->
+      <class name="qa.maven.AppiumTest">
+        <test-method status="PASS" signature="AndriodAutomation()[pri:0, instance:qa.maven.AppiumTest@51081592]" name="AndriodAutomation" duration-ms="6" started-at="2021-05-24T15:23:28Z" finished-at="2021-05-24T15:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AndriodAutomation -->
+        <test-method status="PASS" signature="IOSautomation()[pri:0, instance:qa.maven.AppiumTest@51081592]" name="IOSautomation" duration-ms="1" started-at="2021-05-24T15:23:28Z" finished-at="2021-05-24T15:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSautomation -->
+      </class> <!-- qa.maven.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
