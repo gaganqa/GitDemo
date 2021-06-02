@@ -8,6 +8,7 @@ public class RESTAPITest {
 	{
 		System.out.println("GetCall");
 		System.out.println("Making Changes");
+		System.out.println("init");
 		
 	}
 	@Test
@@ -15,6 +16,7 @@ public class RESTAPITest {
 	{
 		System.out.println("PostCall");
 		System.out.println("Another change ");
+		System.out.println("another post call");
 	}
 
 }
